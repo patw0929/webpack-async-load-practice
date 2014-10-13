@@ -1,0 +1,13 @@
+{
+  "name": "webpack-async-load-practice",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "jquery": "^1.11.1",
+    "gulp-webpack": "^0.4.1",
+    "gulp": "^3.8.8"
+  },
+  "devDependencies": {},
+  "author": "patw (patw.hi@gmail.com)",
+  "license": "MIT"
+}
